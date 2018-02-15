@@ -4,7 +4,7 @@ Soy ağacınıza şema görünümü kazandırarak, kolayca görüntüleyin.
 
 
 ## Özellikler
-- Şema üzerinden kişiye tıklayaran ayrıntılı bilgi 
+- Şema üzerinden kişiye tıklayarak ayrıntılı bilgi 
 - Ölü-Sağ ayrımı için renk farklılıkları
 - Html dosyası ile görüntüleme
 - Sayfa kaynağını yapıştırarak görüntüleme
