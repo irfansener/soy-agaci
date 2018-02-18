@@ -16,7 +16,7 @@
       <div class="info">
         Küçük ekranlarda net görüntülenemeyebilir. Görüntüyü uzaklaştırmayı deneyiniz. <br><br>
         Hiçbir şekilde veritabanı kaydı tutulmamaktadır. <br> Yazılım sadece istemci tarafında çalışır. <br>
-        Dilerseniz kaynak kodlarına <a href="https://github.com/irfansener" target="_blank"> Github</a> üzerinden erişebilirsiniz.
+        Dilerseniz kaynak kodlarına <a href="https://github.com/irfansener/soy-agaci/" target="_blank"> Github</a> üzerinden erişebilirsiniz.
       </div>
       <div class="about">
         Bu websitesi <a href="mailto:irfansener00@gmail.com">İrfan ŞENER</a> tarafından kodlanmıştır.<br>
